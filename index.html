@@ -1,1 +1,82 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IlTuoNome Repo - iOS Tweaks</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo">
+                <img src="SileoIcon.png" alt="Repo Logo">
+                <h1>IlTuoNome Repo</h1>
+            </div>
+            <p class="tagline">Tweaks iOS personalizzati per la community</p>
+        </div>
+    </header>
 
+    <main class="container">
+        <section class="repo-info">
+            <h2><i class="fas fa-download"></i> Aggiungi questa Repository</h2>
+            <div class="repo-url">
+                <code id="repoUrl">https://tuonome.github.io/my-ios-repo/</code>
+                <button onclick="copyRepoUrl()">
+                    <i class="far fa-copy"></i> Copia
+                </button>
+            </div>
+            <p class="instructions">
+                Apri <strong>Sileo</strong> o <strong>Cydia</strong>, vai in Sources → Edit → Add, e incolla l'URL sopra.
+            </p>
+        </section>
+
+        <section class="tweaks-section">
+            <h2><i class="fas fa-cube"></i> Tweaks Disponibili</h2>
+            <div class="tweaks-grid">
+                <!-- I tweak appariranno qui automaticamente -->
+                <div class="empty-state">
+                    <i class="fas fa-box-open"></i>
+                    <p>Nessun tweak disponibile al momento</p>
+                    <p class="subtext">Torna presto per scoprire le novità!</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="about-section">
+            <h2><i class="fas fa-info-circle"></i> Informazioni</h2>
+            <div class="about-content">
+                <div class="about-card">
+                    <h3><i class="fas fa-user"></i> Chi Sono</h3>
+                    <p>Sviluppatore iOS passionale che crea tweak utili per la community.</p>
+                </div>
+                <div class="about-card">
+                    <h3><i class="fas fa-heart"></i> Supporto</h3>
+                    <p>Se ti piacciono i miei tweak, considera di supportare il mio lavoro.</p>
+                </div>
+                <div class="about-card">
+                    <h3><i class="fas fa-bug"></i> Bug Reports</h3>
+                    <p>Problemi? Apri una issue su GitHub o contattami su Twitter.</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 IlTuoNome Repo. Tutti i diritti riservati.</p>
+            <div class="social-links">
+                <a href="https://github.com/tuonome" target="_blank">
+                    <i class="fab fa-github"></i> GitHub
+                </a>
+                <a href="https://twitter.com/tuonome" target="_blank">
+                    <i class="fab fa-twitter"></i> Twitter
+                </a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
