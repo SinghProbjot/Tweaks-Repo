@@ -1,8 +1,8 @@
-Origin: ProbjotSingh Repo
-Label: ProbjotSingh Repo
+Origin: IlTuoNome Repo
+Label: IlTuoNome Repo
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm iphoneos-arm64
+Architectures: iphoneos-arm
 Components: main
-Description: Personal iOS tweaks repository by Probjot Singh
+Description: Test repo
