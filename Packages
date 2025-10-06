@@ -1,0 +1,14 @@
+Package: com.singhprobjot.qrnoads
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: iOS Tweak
+Maintainer: Singhprobjot
+Author: Singhprobjot
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: ./tweaks/com.singhprobjot.qrnoads_1.0.0_iphoneos-arm.deb
+Size: 25
+MD5sum: 70babd9e5b10221b13fac9ec3b5b82fd
+SHA1: b5f9fec062ee00558c845580783de8244958a3b1
+SHA256: 8c8b91286606f75b074a9366d09118b12fd7c178989c36a10ee0979f8bb01ec8
+
