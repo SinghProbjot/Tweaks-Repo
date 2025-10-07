@@ -1,13 +1,14 @@
-Package: com.singhprobjot.qrnoads
+Package: com.singhprobjot.qrnoads-pastapizza
+Name: QRNoAds-PastaPizza
 Version: 1.0.0
 Architecture: iphoneos-arm
-Description: iOS Tweak
-Maintainer: Singhprobjot
-Author: Singhprobjot
+Description: Remove ads from PastaPizza QR Code Scanner app
+Maintainer: Singhprobjot <your@email.com>
+Author: Singhprobjot <your@email.com>
 Section: Tweaks
 Depends: mobilesubstrate
 Filename: ./tweaks/com.singhprobjot.qrnoads-pastapizza_1.0.0_iphoneos-arm.deb
-Size: 25
-MD5sum: 70babd9e5b10221b13fac9ec3b5b82fd
-SHA1: b5f9fec062ee00558c845580783de8244958a3b1
-SHA256: 8c8b91286606f75b074a9366d09118b12fd7c178989c36a10ee0979f8bb01ec8
+Size: 864
+MD5sum: 8a356d90977f4326d530eb3843c29660
+SHA1: 3c9bfd5df9965c95319f14a52aba1d3135cdfa4c
+SHA256: 9cac46c65dbcc139708f102b212b542096528f7dca6f96fa2e8422e35446b262
