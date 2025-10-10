@@ -1,14 +1,22 @@
 Package: com.singhprobjot.qrnoads-pastapizza
-Name: QRNoAds-PastaPizza
-Version: 1.0.0
-Architecture: iphoneos-arm
-Description: Remove ads from PastaPizza QR Code Scanner app
-Maintainer: Singhprobjot <your@email.com>
-Author: Singhprobjot <your@email.com>
-Section: Tweaks
-Depends: mobilesubstrate
+Version: 0.4
+Architecture: iphoneos-arm64
+Maintainer: SinghProbjot <probjot2000@gmail.com>
+Installed-Size: 864
+Depends: firmware(>= 11.0), mobilesubstrate, preferenceloader
 Filename: ./tweaks/com.singhprobjot.qrnoads-pastapizza_1.0.0_iphoneos-arm.deb
 Size: 864
 MD5sum: 8a356d90977f4326d530eb3843c29660
 SHA1: 3c9bfd5df9965c95319f14a52aba1d3135cdfa4c
 SHA256: 9cac46c65dbcc139708f102b212b542096528f7dca6f96fa2e8422e35446b262
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chromahomebarxDp
+Description: Remove ads from PastaPizza QR Code Scanner app.
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios16
+Author: SinghProbjot <probjot2000@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chromahomebarxDp
+Dev: SinghProbjot
+Icon: ./SileoIcon.png
+Name: QRNoAds-PastaPizza
+Sponsor: thebigboss.org <http://thebigboss.org>
