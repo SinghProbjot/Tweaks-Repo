@@ -11,12 +11,9 @@ SHA1: 3c9bfd5df9965c95319f14a52aba1d3135cdfa4c
 SHA256: 9cac46c65dbcc139708f102b212b542096528f7dca6f96fa2e8422e35446b262
 Section: Tweaks
 Priority: optional
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chromahomebarxDp
 Description: Remove ads from PastaPizza QR Code Scanner app.
 Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios16
 Author: SinghProbjot <probjot2000@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chromahomebarxDp
 Dev: SinghProbjot
 Icon: ./SileoIcon.png
 Name: QRNoAds-PastaPizza
-Sponsor: thebigboss.org <http://thebigboss.org>
